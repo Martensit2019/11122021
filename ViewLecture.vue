@@ -1,4 +1,5 @@
 components\programs\layouts\ViewLecture.vue
+import ViewLecture from "~/components/programs/layouts/ViewLecture";
 <template>
   <div>
     <!-- {{isComplete}} -->
