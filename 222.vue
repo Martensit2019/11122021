@@ -1,3 +1,6 @@
+<div class="program__image" style="background-image: url('/_nuxt/assets/images/programs/lecture-bg.jpg')"></div>
+
+
 <template>
   <div class="minh">
     <NuxtLink v-if="lecture.data.prev" :to="toLink(lecture.data.prev)">
